@@ -34,3 +34,4 @@ C:\Users\Black\Documentos\projetos\TecnicasAvancadasDesenvolvimentoDeSoftware\At
 C:\Users\Black\Documentos\projetos\TecnicasAvancadasDesenvolvimentoDeSoftware\Atividade04\bin\Debug\net8.0\Data\cities.json
 C:\Users\Black\Documentos\projetos\TecnicasAvancadasDesenvolvimentoDeSoftware\Atividade04\bin\Debug\net8.0\Data\countries.json
 C:\Users\Black\Documentos\projetos\TecnicasAvancadasDesenvolvimentoDeSoftware\Atividade04\bin\Debug\net8.0\Data\states.json
+C:\Users\Black\Documentos\projetos\TecnicasAvancadasDesenvolvimentoDeSoftware\Atividade04\obj\Debug\net8.0\Atividade04.sourcelink.json
