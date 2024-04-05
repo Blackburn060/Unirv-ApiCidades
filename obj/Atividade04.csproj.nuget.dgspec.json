@@ -50,6 +50,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "azure.messaging.servicebus": {
+              "target": "Package",
+              "version": "[7.17.4, )"
             }
           },
           "imports": [
